@@ -109,11 +109,12 @@ function About() {
                 Contact Me
               </a>
               <a
-                href="/path-to-your-resume.pdf"
-                download
+                href="/Kamaleshwaran_Resume_2026.pdf"
+                target="_blank" // Opens in new tab
+                rel="noopener noreferrer"
                 className="px-6 py-3 text-lg font-semibold text-white bg-primary rounded hover:bg-blue-600 text-center transition-all duration-500 border border-transparent hover:shadow-lg"
               >
-                Download My Resume
+                View My Resume
               </a>
             </div>
           </div>
