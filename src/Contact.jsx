@@ -68,7 +68,7 @@ export default function Contact() {
 
         {/* CTA Button */}
         <a
-          href="mailto:your-email@example.com"
+          href="mailto:kwaran911@gmail.com"
           className="inline-block px-10 py-4 text-lg font-semibold text-white bg-primary rounded-full shadow-lg hover:bg-blue-600 hover:-translate-y-1 hover:shadow-xl transition-all duration-300"
         >
           Get In Touch
